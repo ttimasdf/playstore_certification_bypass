@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=certification.vending
+name=Certified OnePlus 3
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=ttimasdf
+description=Fix UNVERIFIED status in Play Store for H2OS/OOS Open Beta.
 minMagisk=1500
