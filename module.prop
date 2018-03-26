@@ -1,7 +1,7 @@
-id=certification.vending
-name=Certified OnePlus 3
+id=VendingVisa
+name=Play Store Visa
 version=v1
 versionCode=1
 author=ttimasdf
-description=Fix UNVERIFIED status in Play Store for H2OS/OOS Open Beta.
+description=Fix UNVERIFIED status in Play Store for OP2/OP3/Note4 and more.
 minMagisk=1500

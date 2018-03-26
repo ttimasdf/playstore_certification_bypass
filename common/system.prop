@@ -1,7 +1,3 @@
 # This file will be read by resetprop
 # Example: Change dpi
 # ro.sf.lcd_density=320
-
-ro.build.description=OnePlus3-user 7.1.1 NMF26F 108 dev-keys
-ro.build.fingerprint=OnePlus/OnePlus3/OnePlus3:7.1.1/NMF26F/08081200:user/release-keys
-ro.build.oemfingerprint=7.1.1/NMF26F/08081200:user/release-keys
