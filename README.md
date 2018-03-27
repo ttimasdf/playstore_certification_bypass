@@ -32,4 +32,4 @@ Enjoy ;P
 
 # XDA Thread
 
-https://forum.xda-developers.com/android/apps-games/play-store-visa-device-certified-custom-t3769069
+https://forum.xda-developers.com/apps/magisk/play-store-visa-device-certified-custom-t3769069
