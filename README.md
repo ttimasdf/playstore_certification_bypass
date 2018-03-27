@@ -1,6 +1,13 @@
 # Play Store Visa
 
-Fix [UNCERTIFIED status in Play Store](https://support.google.com/googleplay/answer/7165974) for OP2/OP3/Note4 and ~~maybe~~ more. It won't necessarily fail SafetyNet **BUT** it may lead to some restrictions on specific apps (saying Netflix).
+Fix [UNCERTIFIED status in Play Store](https://support.google.com/googleplay/answer/7165974) for OP2/OP3/Note4 and ~~maybe~~ more. 
+
+Uncertified status may lead to some restrictions on specific apps (saying Netflix). It is not only judged by SafetyNet status but also some build props in your ROM. So this module does **NOT** help you to pass SafetyNet and requires you already passed it.
+
+More specifically, to pass SafetyNet, if you are on a custom ROM/Kernel,
+- [a patch in your kernel like this](https://github.com/LineageOS/android_kernel_samsung_apq8084/commit/31b70a32bcc3e571d41cc8451ebbc8702b334ff4) is *REQUIRED*
+- If you are on stock ROM or other ROMs that enabled dm-verity, never touch system part.
+- SELinux is always enforcing
 
 # Installation
 
